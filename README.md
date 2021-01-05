@@ -17,4 +17,4 @@ Korean Health Condition Auto Checker For Student ( COVID-19 )
 
 ## 다운로드
 
-[여기](https://github.com/myoung2namur/AutoChecker/releases/tag/1.0)를 눌러 다운로드 하세요
+[여기](https://github.com/myoung2namur/AutoChecker/releases)를 눌러 다운로드 하세요
