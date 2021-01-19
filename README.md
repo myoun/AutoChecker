@@ -26,6 +26,11 @@ Korean Health Condition Auto Checker For Student ( COVID-19 )
 아마 1일 안에 답변해드릴 수 있을 것 같습니다.
 수정도 1일안에 가능할 듯 하네요.
 
+### 사용 라이브러리
+[331LEO](https://github.com/331leo/hcskr_python)님의 hcskr 라이브러리를 사용하였습니다.<br/>
+[PyYaml](https://github.com/yaml/pyyaml)라이브러리를 사용하였습니다.<br/>
+파이썬 기본 라이브러리 [(Random, Datetime, OS)](https://www.python.org/)를 사용하였습니다.<br/>
+
 ### 연락처
 
 ###### 디스코드 : `명이#5384`
