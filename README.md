@@ -2,7 +2,7 @@
 Korean Health Condition Auto Checker For Student ( COVID-19 )
 
 ## 사용방법
-
+[필참](https://github.com/myoun/AutoChecker/issues/1)
 ### 최초 실행시
 
 잠시 켜졌다가 꺼짐 (`개인정보.yml` 생성)
@@ -34,7 +34,3 @@ Korean Health Condition Auto Checker For Student ( COVID-19 )
 ### 연락처
 
 ###### 디스코드 : `명이#5384`
-###### 이메일 : `aiden080605@gmail.com`
-<br/>
-
-###### 이메일은 잘 안보니까 디스코드로 연락주세요. 웬만하면 친추는 다 받아요.
